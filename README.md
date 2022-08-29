@@ -10,6 +10,22 @@ ORM Challenge: E-commerce Back End. User story below:
 
 `SO THAT my company can compete with other e-commerce companies`
 
+## Usage
+
+You will need Node.js installed to test this application. Once that's done, enter the following code in your terminal to install all dependencies:
+
+`npm i`
+
+## Links
+
+[Source Code](https://github.com/coding-boot-camp/fantastic-umbrella)
+
+[Repository](https://github.com/nrenner0211/not-another-ecommerce-site)
+
+## Demonstration
+
+(Coming Soon!)
+
 ### Acceptance Criteria
 
 `GIVEN a functional Express.js API`
@@ -33,16 +49,6 @@ ORM Challenge: E-commerce Back End. User story below:
 `WHEN I test API POST, PUT, and DELETE routes in Insomnia`
 
 `THEN I am able to successfully create, update, and delete data in my database`
-
-## Usage
-
-You will need Node.js installed to test this application. Once that's done, enter the following code in your terminal to install all dependencies:
-
-`npm install`
-
-## Starter Code
-
-[Link](https://github.com/coding-boot-camp/fantastic-umbrella)
 
 ## Contact
 

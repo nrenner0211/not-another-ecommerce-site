@@ -6,7 +6,17 @@ const { Product, Category, Tag, ProductTag } = require('../../models');
 // get all products
 router.get('/', (req, res) => {
   // find all products
-  // be sure to include its associated Category and Tag data
+  // be sure to include its associated Category and Tag dataconst router = require('express').Router();
+const categoryRoutes = require('./category-routes');
+const productRoutes = require('./product-routes');
+const tagRoutes = require('./tag-routes');
+
+router.use('/categories', categoryRoutes);
+router.use('/products', productRoutes);
+router.use('/tags', tagRoutes);
+
+module.exports = router;
+
 });
 
 // get one product
