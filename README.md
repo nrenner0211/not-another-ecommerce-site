@@ -16,7 +16,9 @@ You will need Node.js installed to test this application. Once that's done, ente
 
 `npm i`
 
-Then `npm run seed`, and then finally `npm start` to start the application.
+Then,
+
+`mysql -u root -p`, enter your password, and enter `source db/schema.sql.`. Back in the BASH terminal, enter  `npm run seed`, and then finally `npm start` to start the application.
 
 ## Links
 
