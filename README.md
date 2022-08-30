@@ -16,6 +16,8 @@ You will need Node.js installed to test this application. Once that's done, ente
 
 `npm i`
 
+Then `npm run seed`, and then finally `npm start` to start the application.
+
 ## Links
 
 [Source Code](https://github.com/coding-boot-camp/fantastic-umbrella)
