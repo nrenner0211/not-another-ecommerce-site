@@ -28,7 +28,7 @@ Then,
 
 ## Demonstration
 
-(Testing Routes)(./assets/images/ecommerce-backend.gif)
+![Testing Routes](./assets/images/ecommerce-backend.gif)
 
 ### Acceptance Criteria
 
