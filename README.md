@@ -26,6 +26,8 @@ Then,
 
 [Repository](https://github.com/nrenner0211/not-another-ecommerce-site)
 
+[Walkthrough Video](https://drive.google.com/file/d/1PSzH-sSH3UCRHC2RwtNjVGTFgk_A5n5J/view)
+
 ## Demonstration
 
 ![Testing Routes](./assets/images/ecommerce-backend.gif)
